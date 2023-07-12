@@ -30,7 +30,7 @@ The project requires the following dependencies:
 
 To use the Virtual Assistant, follow these steps:
 
-1. Clone the repository:
+1. Clone the github repository:
 git clone https://github.com/Ayyodeji/Virtual-Assistant.git
 cd Virtual-Assistant
 
