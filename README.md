@@ -38,7 +38,7 @@ cd Virtual-Assistant
 2. Install the required dependencies:
 
 3. Open the Jupyter Notebook:
-   jupyter notebook
+   `jupyter notebook`
 
 4. Open the provided Jupyter Notebook `Speech.ipynb`.
 
